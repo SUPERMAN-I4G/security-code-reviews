@@ -1,8 +1,9 @@
 # Security-Code-Reviews
 
 ## Top Performance
-- Ranked among the Top 10 security researchers on [Silo Finance audit competition](https://cantina.xyz/competitions/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/leaderboard)
+- Ranked among the Top 10 security researchers on [Silo Finance competition](https://cantina.xyz/competitions/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/leaderboard)
 - Secured shared 3rd place in the [Chainlink Payment Abstraction competition](https://code4rena.com/audits/2024-12-chainlink-payment-abstraction)
+- Secured shared 1st place on [vVv Launchpad competition](https://audits.sherlock.xyz/contests/647)
 
 ## Audit Competitions
 
