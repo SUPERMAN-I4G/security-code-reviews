@@ -29,5 +29,6 @@
 ## Reach Out
 
 - [**Twitter/X**](https://x.com/SUPERMAN_I4G)
+- [**Linkedin**](https://www.linkedin.com/in/muhammad-abdulmalik-b424611a8/)
 - [**Cantina**](https://cantina.xyz/u/SUPERMAN-I4G)
 - [**Code4rena**](https://code4rena.com/@SUPERMAN_I4G)
