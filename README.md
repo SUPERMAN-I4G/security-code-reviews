@@ -13,7 +13,11 @@
 | 01.2025 | 1M      | Code4rena | Chainlink Payment Abstraction | [Source](https://code4rena.com/audits/2024-12-chainlink-payment-abstraction) |
 | 12.2024 | 1H      | Cantina     | InterPol | [Source](https://cantina.xyz/competitions/55023131-27df-44e4-af46-bec298d0fa8e/leaderboard) |
 | 11.2024 | 2M      | Code4rena     | Concrete | [Source](https://code4rena.com/audits/2024-11-concrete) |
+| 11.2024 | 1H      | Sherlock     | vVv Launchpad | [Source](https://audits.sherlock.xyz/contests/647) |
 | 09.2024 | 1H 2M      | Cantina     | Royco Protocol | [Source](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602/leaderboard) |
+| 07.2024 | 1M 1L      | CodeHawks     | TempleGold | [Source](https://codehawks.cyfrin.io/c/2024-07-templegold/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
+| 04.2024 | 1H 1M      | Sherlock     | Zivoe | [Source](https://audits.sherlock.xyz/contests/280) |
+| 07.2023 | 1M      | CodeHawks     | BeedleFi | [Source](https://codehawks.cyfrin.io/c/2023-07-beedle/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
 
 ## Private & Invitational Audits
 
