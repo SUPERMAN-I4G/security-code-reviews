@@ -10,7 +10,7 @@
 | Date    | Findings | Platform | Protocol | Source |
 |---------|----------|----------|------| ------ |
 | 01.2025 | 1M (solo)     | Cantina | Silo Finance | [Source](https://cantina.xyz/competitions/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/leaderboard)|
-| 01.2025 | 1M      | Cantina | Infrared Finance | [Source](https://cantina.xyz/competitions/ac5f64e6-3bf2-4269-bbb0-4bcd70425a1d/leaderboard) | 
+| 01.2025 | 1H      | Cantina | Infrared Finance | [Source](https://cantina.xyz/competitions/ac5f64e6-3bf2-4269-bbb0-4bcd70425a1d/leaderboard) | 
 | 01.2025 | 1M      | Code4rena | Chainlink Payment Abstraction | [Source](https://code4rena.com/audits/2024-12-chainlink-payment-abstraction) |
 | 12.2024 | 1H      | Cantina     | InterPol | [Source](https://cantina.xyz/competitions/55023131-27df-44e4-af46-bec298d0fa8e/leaderboard) |
 | 11.2024 | 2M      | Code4rena     | Concrete | [Source](https://code4rena.com/audits/2024-11-concrete) |
