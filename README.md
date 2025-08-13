@@ -25,6 +25,7 @@
 | Date    | Findings | Protocol                                      |
 | ------- | -------- | --------------------------------------------- |
 | 08.2024 | [1H, 1M, 2L](https://gist.github.com/SUPERMAN-I4G/496f225bbb1f7641594701985b4e5bff)   | TempleGold |
+| 08.2025 | [1M, 2L](https://gist.github.com/SUPERMAN-I4G/05bf7e35e96896f9b027d3cdc4b78dc6)   | Human Resources |
 
 ## Reach Out
 
