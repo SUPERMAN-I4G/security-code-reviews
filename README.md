@@ -14,6 +14,7 @@
 | Date    | Findings | Platform | Protocol | Source |
 |---------|----------|----------|------| ------ |
 | 07.2025 | 1M     | Cantina | Succint | [Source](https://cantina.xyz/code/bd882748-077e-4e55-853f-f8df70109dbb/overview/leaderboard)|
+| 04.2025 | 1H     | Cantina | taikai-v4 | [Source](https://cantina.xyz/code/74fb60b8-879f-43b1-9f48-c788df0590da/overview/leaderboard)|
 | 01.2025 | 1M (solo)     | Cantina | Silo Finance | [Source](https://cantina.xyz/competitions/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/leaderboard)|
 | 01.2025 | 1H      | Cantina | Infrared Finance | [Source](https://cantina.xyz/competitions/ac5f64e6-3bf2-4269-bbb0-4bcd70425a1d/leaderboard) | 
 | 01.2025 | 1M      | Code4rena | Pump Science | [Source](https://code4rena.com/audits/2025-01-pump-science) |
