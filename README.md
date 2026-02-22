@@ -5,6 +5,10 @@
 - Secured shared 3rd place in the [Chainlink Payment Abstraction competition](https://code4rena.com/audits/2024-12-chainlink-payment-abstraction)
 - Secured shared 1st place on [vVv Launchpad competition](https://audits.sherlock.xyz/contests/647)
 
+## CTF
+- Ranked among the [first four participants](https://x.com/SUPERMAN_I4G/status/1992024613405016533?s=20) to solve the [OpenZeppelin Ethernaut challenges](https://x.com/OpenZeppelin/status/1991209250757177617?s=20) ([UniqueNFT](https://ethernaut.openzeppelin.com/level/38), [Forger](https://ethernaut.openzeppelin.com/level/39), and [NotOptimisticPortal](https://ethernaut.openzeppelin.com/level/40)) at the DeFi Security Summit in Buenos Aires.
+- Placed 11th with Team Early Bird at the [Wonderland CTF](https://x.com/Wonderland/status/1991320334159794400?s=20) during Devcon in Buenos Aires.
+
 ## Audit Competitions
 
 | Date    | Findings | Platform | Protocol | Source |
